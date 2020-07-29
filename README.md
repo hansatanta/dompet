@@ -1,4 +1,4 @@
-# moneymanager
+# dompet
 
 A new Flutter application.
 
