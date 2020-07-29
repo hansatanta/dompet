@@ -1,0 +1,83 @@
+{
+
+  "Dompet Wallet": "Dompet Wallet",
+   "Privacy Policy" :
+  "Privacy Policy\nYour data is saved locally so it is 100 % safe and secure unless your device is hacked!",
+   "Copy Rights" : "All Rights Reserved © 2020",
+
+
+  "Chart": "Chart",
+  "Details" : "Details",
+  "Your Expenses in": "Your Expenses in",
+
+  "Filters"  : "Filters" ,
+  "Show Current Month": "Show Current Month",
+  "Show current month transactions only": "Show current month transactions only",
+  "Show Income" : "Show Income" ,
+  "Show income transactions only" : "Show income transactions only",
+  "Show Expenses" : "Show Expenses" ,
+  "Show expenses transactions only" : "Show expenses transactions only",
+
+  "Expenses Analysis" : "Expenses Analysis For",
+  "Total Income": "Total Income",
+  "Total Expenses" : "Total Expenses",
+  "Balance" : "Balance",
+
+
+  "Title" : "Title",
+  "Amount": "Amount",
+  "Choose Category": "Choose Category",
+  "Income Radio": "Income",
+  "Expenses Radio": "Expenses",
+  "Pick Date": "Pick Date",
+  "Add": "Add",
+  "please enter a valid value" : "please enter a valid value",
+
+  "Show Chart" : "Show Chart",
+
+  "Daily Expenses" : "Total Expenses",
+
+  "Delete": "Delete",
+
+  "Analysis": "Analysis",
+  "Settings": "Settings",
+  "About": "About",
+
+  "No Records Added Yet" :"No Records Added Yet",
+  "No Records For This Period" :"No Records For This Period",
+
+
+
+
+
+  "This app was developed by" : "This app was developed by",
+  "Icons in this app made by Atanta" : "Icons in this app made by Atanta",
+
+
+   "Reset" : "Reset",
+
+  "Confirm" : "Confirm",
+  "Cancel" : "Cancel",
+  "Are You Sure You Want To Delete All Your Records?" : "Are You Sure You Want To Delete All Your Records?",
+
+  "Bills" : "Bills" ,
+  "Books": "Books",
+  "Education":"Education",
+  "Savings": "Savings",
+  "Makeup":"Makeup",
+  "Children": "Children",
+  "Emergency" :  "Emergency" ,
+  "Entertaining" :  "Entertaining",
+  "Grocery" :  "Grocery",
+  "Maintenance":  "Maintenance",
+  "Medical":  "Medical",
+  "Others" :  "Others",
+  "Shopping" :  "Shopping",
+  "Transportation" :  "Transportation",
+  "Travelling" : "Travelling",
+  "Salary":  "Salary",
+  "Reward":  "Reward",
+  "Gift": "Gift",
+  "Prize":  "Prize",
+  "Youtube": "Youtube"
+}

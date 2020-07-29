@@ -1,0 +1,87 @@
+{
+
+  "Dompet Wallet": "Dompet Wallet",
+  "Privacy Policy" :
+  "Rahasia pribadi\nData Anda disimpan secara lokal sehingga 100% aman dan aman kecuali perangkat Anda diretas!",
+  "Copy Rights" : "Semua Hak Dilindungi © 2020",
+
+
+  "Chart": "Grafik",
+  "Details" : "Detail",
+  "Your Expenses in": "Pengeluaran Anda dalam",
+
+  "Filters"  : "Saringan" ,
+  "Show Current Month": "Tampilkan Bulan Ini",
+  "Show current month transactions only": "Tampilkan hanya transaksi bulan berjalan",
+  "Show Income" : "Tampilkan Pendapatan" ,
+  "Show income transactions only" : "Tampilkan hanya transaksi pendapatan",
+  "Show Expenses" : "Tampilkan Pengeluaran" ,
+  "Show expenses transactions only" : "Tampilkan hanya transaksi pengeluaran",
+
+  "Expenses Analysis" : "Analisis Biaya Untuk",
+  "Total Income": "Jumlah Pemasukan",
+  "Total Expenses" : "Jumlah Pengeluaran",
+  "Balance" : "Saldo",
+
+
+  "Title" : "Judul",
+  "Amount": "Jumlah",
+  "Choose Category": "Pilih Kategori",
+  "Income Radio": "Pendapatan",
+  "Expenses Radio": "Pengeluran",
+  "Pick Date": "Pilih Tanggal",
+  "Add": "Tambah",
+  "please enter a valid value" : "silakan masukkan nilai yang valid",
+
+  "Show Chart" : "Tampilkan Grafik",
+
+  "Daily Expenses" : "Jumlah Pengeluaran",
+
+  "Delete": "Hapus",
+
+  "Analysis": "Analisis",
+  "Settings": "Pengaturan",
+  "About": "Tentang",
+
+  "No Records Added Yet" :"Belum Ada Catatan Ditambahkan",
+  "No Records For This Period" :"Tidak Ada Catatan Periode Ini",
+
+
+
+
+
+  "This app was developed by" : "Aplikasi ini dikembangkan oleh",
+  "Icons in this app made by Atanta" : "\nIkon dalam aplikasi dibuat oleh Atanta",
+
+
+  "Reset" : "Atur Ulang",
+
+  "Confirm" : "Setuju",
+  "Cancel" : "Batal",
+  "Are You Sure You Want To Delete All Your Records?" : "Hapus semua catatan Anda?",
+
+  "Expenses" : "UangKeluar",
+
+  "Income" : "UangMasuk",
+
+  "Bills" : "Tagihan" ,
+  "Books": "Buku",
+  "Education":"Edukasi",
+  "Savings": "Simpanan",
+  "Makeup":"Dandan",
+  "Children": "Anak",
+  "Emergency" :  "Darurat" ,
+  "Entertaining" :  "Hiburan",
+  "Grocery" :  "Makanan",
+  "Maintenance":  "Pemeliharaan",
+  "Medical":  "Pengobatan",
+  "Others" :  "Lainnya",
+  "Shopping" :  "Belanja",
+  "Transportation" :  "Transportasi",
+  "Travelling" : "Perjalanan",
+  "Salary":  "Gaji",
+  "Reward":  "Penghargaan",
+  "Gift": "Hadiah",
+  "Prize":  "Bonus",
+  "Youtube": "Youtube"
+}
